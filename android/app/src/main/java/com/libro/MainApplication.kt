@@ -1,4 +1,4 @@
-package com.rnesbuild
+package com.libro
 
 import android.app.Application
 import com.facebook.react.PackageList
